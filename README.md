@@ -1,8 +1,31 @@
-# React + Vite
+# 👁️ OCHI – Strategic Design Partner for Tech Businesses
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the GitHub repository for [OCHI](https://ochi001.netlify.app/), a strategic design agency specializing in assisting fast-growing tech companies.
+We focus on helping businesses raise funds, sell products, explain complex ideas, and hire exceptional talent.
 
-Currently, two official plugins are available:
+## 🚀 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Explore our services and portfolio: [https://ochi001.netlify.app/](https://ochi001.netlify.app/)
+
+## 🧰 Technologies Used
+
+- **HTML5** – Semantic and accessible markup
+- **CSS3** – Responsive and modern styling
+- **JavaScript (ES6+)** – Interactive and dynamic functionalities
+
+## 🖼️ Features
+
+- **Case Studies** – Showcasing our successful collaborations
+- **Services Overview** – Detailing our strategic offerings
+- **About Us** – Insight into our mission and team
+- **Contact Information** – Easy ways to get in touch
+
+## 📁 Project Structure
+├── index.html
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+├── images/
+│ └── (project images and assets)
+└── README.md

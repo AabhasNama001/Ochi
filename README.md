@@ -1,11 +1,11 @@
 # 👁️ OCHI – Strategic Design Partner for Tech Businesses
 
-Welcome to the GitHub repository for [OCHI](https://ochi001.netlify.app/), a strategic design agency specializing in assisting fast-growing tech companies.
+Welcome to the GitHub repository for [OCHI](https://ochi-pi-inky.vercel.app/), a strategic design agency specializing in assisting fast-growing tech companies.
 We focus on helping businesses raise funds, sell products, explain complex ideas, and hire exceptional talent.
 
 ## 🚀 Live Website
 
-Explore our services and portfolio: [https://ochi001.netlify.app/](https://ochi001.netlify.app/)
+Explore our services and portfolio: [https://ochi-pi-inky.vercel.app/](https://ochi-pi-inky.vercel.app/)
 
 ## 🧰 Technologies Used
 
